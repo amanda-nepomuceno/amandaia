@@ -16,10 +16,10 @@ const perguntas = [
         correta: 0 // A primeira alternativa é a correta
     },
     {
-        enunciado: "Quantos dias há em um ano bissexto?",
+        enunciado: "qual e a data do natal?",
         alternativas: [
-            "365",
-            "366"
+            "25",
+            "24"
         ],
         correta: 1 // A segunda alternativa é a correta
     },
