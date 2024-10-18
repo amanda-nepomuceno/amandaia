@@ -32,18 +32,18 @@ const perguntas = [
         correta: 1
     },
     {
-        enunciado: "Qual é a capital da França?",
+        enunciado: "Quantos dias tem 1 ano?",
         alternativas: [
-            "Paris",
-            "Londres"
+            "345",
+            "365"
         ],
         correta: 0
     },
     {
-        enunciado: "Qual é a fórmula química da água?",
+        enunciado: "Qual é a cor da laranja?",
         alternativas: [
-            "H2O",
-            "CO2"
+            "azul",
+            "laranja"
         ],
         correta: 0
     }
